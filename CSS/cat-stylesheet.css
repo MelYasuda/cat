@@ -13,3 +13,11 @@ li {
   font-size: 25px;
   font-family: fantasy;
 }
+
+.dark-background {
+  background-color: gray;
+}
+
+.light-background {
+  background-color: yellow;
+}
